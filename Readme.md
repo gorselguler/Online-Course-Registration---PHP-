@@ -56,7 +56,7 @@ This project is divided into two modules:
 ![Admincourse Page](onlinecourse/assets/img/Admin-Course.png)
 ![AdminLogin Page](onlinecourse/assets/img/Admin-Login-1.png)
 ![StudentLogin Page](onlinecourse/assets/img/Student-Login.png)  
-![Dashboard](onlinecourse/assets/img/dashboard-screenshot.png)  
+![Admin-Student-Registration](onlinecourse/assets/img/Admin-Student-Registration.png)  
 
 *(Make sure to upload the screenshots to the `onlinecourse/assets/img/` folder in your repo.)*
 
