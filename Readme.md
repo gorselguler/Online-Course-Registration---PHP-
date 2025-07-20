@@ -20,19 +20,12 @@ This project is divided into two modules:
 - Student can log in with a valid registration number and password provided by admin.  
 - Student can enroll in courses and print out the registered courses.
 
----
-
-## Installation Steps
-
-1. Download and unzip the file on your local system.  
-2. Copy the `onlinecourse` folder into your web server's root directory.  
-3. Database Configuration:
 
 ### Database Configuration
 
 - Open PHPMyAdmin.  
 - Create a database named `onlinecourse`.  
-- Import the `onlinecourse.sql` file (available inside the zip package).  
+- Import the `onlinecourse.sql` file   
 - Open your browser and go to `http://localhost/onlinecourse`.
 
 ---
